@@ -1,7 +1,7 @@
 ## Hi, Im Tyler Lund 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tylerblund/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tylerblund@gmail.com)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=WIP&url=https%3A%2F%2Ftylerblund.netlify.app%2F)](https://www.tylerblund.netlify.app)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=WIP&url=https%3A%2F%2Ftylerblund.netlify.app%2F)](https://tylerblund.netlify.app)
 ![ViewCount](https://views.whatilearened.today/views/github/tyguy56/tyguy56.svg?cache=remove)
 
 ### About me
@@ -25,7 +25,7 @@
  #
  ### Goals for 2022
  - Learn <a href="https://bevyengine.org"> bevy </a>
- - Finish my <a href="tylerblund.netlify.app">portfolio website</a>
+ - Finish my <a href="https://tylerblund.netlify.app">portfolio website</a>
  - Contribute to more open source projects
  
  <br>
