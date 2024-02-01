@@ -11,11 +11,12 @@
   - :books: I am currently exploring new technologies and stacks 
   - :computer: Hardware Enthusiast
   - :climbing: Bouldering/Climbing
-  
+  - :bowling: Bowling
+
   ## Tech Stacks
   ### Professionally
   - Java | Scala | Selenium | SQL | REST | Jenkins
-  - Python | C | C++ | Bamboo | Docker
+  - Python | C | C++ | C# | Bamboo | Docker
   <img align="right" src="https://cdn0.iconfinder.com/data/icons/science-and-technology-3-5/128/102-512.png" style="width:10%;height:10%;"></img>
   ### Personal
   - Rust
